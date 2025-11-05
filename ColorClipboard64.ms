@@ -41,8 +41,8 @@ rollout ColorClipboard64Rollout "Color Clipboard x64" width:300
     colorPicker cpCurrent "Current Color" align:#left
 
     spinner spSlot "Slot:" range:[1,64,1] type:#integer width:60 align:#left
-    button btnSave      "Save Current → Slot" width:140 across:2 align:#left
-    button btnLoad      "Load Slot → Current" width:140 align:#left
+    button btnSave      "Save Current Slot" width:140 across:2 align:#left
+    button btnLoad      "Load Slot Current" width:140 align:#left
     button btnClearSlot "Clear Slot"          width:140 across:2 align:#left
     button btnResetAll  "Reset All (Palette)" width:140 align:#left
 
