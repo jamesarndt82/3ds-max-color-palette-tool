@@ -2,7 +2,7 @@
 
 A simple 3ds Max utility script that provides a persistent, multi-palette color clipboard:
 
-<img width="302" height="562" alt="3ds_Max_Color_Tool" src="https://github.com/user-attachments/assets/3eebde25-4d61-48d3-bd2a-4c88319cf4fe" />
+<img width="302" height="562" alt="3ds_Max_Color_Tool" src="https://github.com/user-attachments/assets/6e3d3602-049f-46c0-a075-d833d69c1223" />
 
 - 64 color slots per palette (8×8 grid)
 - 4 independent palettes (e.g. General, Environment, Characters, UI)
